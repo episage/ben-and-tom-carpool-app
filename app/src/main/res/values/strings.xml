@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarPool</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessToken">pk.eyJ1IjoiZXBpc2FnZSIsImEiOiJjaWs3Y3pjM3gwMWhldW5rdG83cHd2bWV4In0.RLAhY6L9_I1DBfkmad7GKA</string>
+</resources>
